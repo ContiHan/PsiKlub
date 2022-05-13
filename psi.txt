@@ -1,0 +1,9 @@
+Buddy;1;černá;8000.0
+Andy;2;bílá;6650.0
+Max;5;černá;8000.0
+Roxy;3;bílá;9950.0
+Mia;8;hnědá;1500.0
+Lilly;4;šedá;15000.0
+Daisy;9;černá;4500.0
+Sandy;2;bílá;9990.0
+Slim;4;černá;25000.0
